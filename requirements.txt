@@ -1,0 +1,6 @@
+fastapi[standard]
+requests
+sqlmodel
+Faker
+httpx
+pytest
